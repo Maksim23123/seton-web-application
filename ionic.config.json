@@ -1,0 +1,7 @@
+{
+  "name": "Seton",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
